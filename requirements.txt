@@ -1,0 +1,15 @@
+anthropic
+ccxt
+python-telegram-bot
+sqlalchemy
+asyncpg
+apscheduler
+streamlit
+httpx
+aiohttp
+redis
+python-dotenv
+feedparser
+psycopg2-binary
+plotly
+pandas
